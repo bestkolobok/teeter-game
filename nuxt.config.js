@@ -25,8 +25,8 @@ export default {
   css: [
   ],
 
-  styleResources: { 
-    scss: [ './assets/global/*.scss' ] 
+  styleResources: {
+    scss: [ './assets/global/*.scss' ]
   },
 
   // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)
@@ -67,7 +67,7 @@ export default {
       '~/assets/variables.scss'
     ],
     theme: {
-      dark: true,
+      dark: false,
       themes: {
         dark: {
           primary: "#212121",
@@ -79,6 +79,22 @@ export default {
           warning: colors.amber.base,
           error: colors.deepOrange.accent4,
           success: colors.green.accent3
+        },
+        light: {
+          primary: "#072112",
+          accent: "#3a7b68",
+          secondary: '#789699',
+          'general-background': '#f1f1f1',
+          'active-link': '#5476c2',
+          info: colors.teal.lighten1,
+          warning: colors.amber.base,
+          error: colors.deepOrange.accent4,
+          success: colors.green.accent3,
+          'figure-1': "#ff6a9a",
+          'figure-2': "#5b6cff",
+          'figure-3': "#40ffb1",
+          'figure-4': "#b5ff59",
+          'figure-5': "#ff9155"
         }
       }
     }

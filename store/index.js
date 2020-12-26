@@ -4,13 +4,18 @@ export default {
   namespaced: true,
   state() {
     return {
-      angle: 0
-      // users: []
+      teeterWidth: 1,
+      teeterHeight: 1,
+      bending: 100
     }
   },
   mutations: {
-    [types.SET_ANGLE](state, angle) {
-      state.angle = angle; 
+    [types.SET_BENDING](state, angle) {
+      state.angle = angle;
+    },
+    [types.SET_TEETER_SIZE](state, { width, height }) {
+      state.teeterWidth = width;
+      state.teeterHeight = height;
     }
   },
   actions: {
@@ -24,6 +29,11 @@ export default {
     // }
   },
   getters: {
-    getAngle: ({ angle }) => angle
+    getAngle: ({ bending, teeterWidth, teeterHeight }) => {
+      const foolAngle = Math.asin( teeterHeight / ( teeterWidth / 2 ) ) * ( 180 / Math.PI );
+      return foolAngle * ( bending / 100 )
+    },
+    getPixelWidth: ({ teeterWidth }) => teeterWidth * 100,
+    getPixelHeight: ({ teeterHeight }) => teeterHeight * 100
   }
 }

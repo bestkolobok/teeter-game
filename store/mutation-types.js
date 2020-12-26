@@ -1,3 +1,4 @@
 export default {
-  SET_ANGLE: 'SET_ANGLE'
+  SET_BENDING: 'SET_BENDING',
+  SET_TEETER_SIZE: 'SET_TEETER_SIZE'
 }
