@@ -5,7 +5,7 @@ export default {
   ssr: false,
   router: {
     // base: '/'
-    base: process.env.NODE_ENV  === 'production' ? '/teeter-test/' : '/'
+    base: process.env.NODE_ENV  === 'production' ? '/teeter-game/' : '/'
   },
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
