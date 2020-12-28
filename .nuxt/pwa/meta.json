@@ -53,16 +53,16 @@
   "link": [
     {
       "rel": "shortcut icon",
-      "href": "/_nuxt/icons/icon_64x64.5f6a36.png"
+      "href": "/teeter-test/_nuxt/icons/icon_64x64.5f6a36.png"
     },
     {
       "rel": "apple-touch-icon",
-      "href": "/_nuxt/icons/icon_512x512.5f6a36.png",
+      "href": "/teeter-test/_nuxt/icons/icon_512x512.5f6a36.png",
       "sizes": "512x512"
     },
     {
       "rel": "manifest",
-      "href": "/_nuxt/manifest.99bb1183.json",
+      "href": "/teeter-test/_nuxt/manifest.6f8188da.json",
       "hid": "manifest"
     }
   ],
