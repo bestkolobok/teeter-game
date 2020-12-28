@@ -2,43 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce8cd781-79cd-46d6-abbc-df88cd231b01" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.nuxt/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/client.js" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/client.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/components/nuxt-build-indicator.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/components/nuxt-error.vue" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/components/nuxt-error.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/content/editor.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/content/nuxt-content.dev.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/content/plugin.client.js" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/content/plugin.client.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/content/plugin.server.js" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/content/plugin.server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/content/query-builder.js" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/content/query-builder.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/client/manifest.99bb1183.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/loading.html" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/loading.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/pwa/icons.js" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/pwa/icons.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/pwa/meta.json" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/pwa/meta.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/views/error.html" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/views/error.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/vuetify/plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/vuetify/plugin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/workbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/workbox.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/200.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/200.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/_nuxt/4667a02.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/_nuxt/5472545.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/_nuxt/7e779f8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/_nuxt/80d26f5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/_nuxt/LICENSES" beforeDir="false" afterPath="$PROJECT_DIR$/dist/_nuxt/LICENSES" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/_nuxt/b29e310.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/_nuxt/cb571e2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/_nuxt/content/db-e1f77d60.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/_nuxt/eb46d47.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/_nuxt/f4183e7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/_nuxt/fd703d2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/_nuxt/manifest.bd20cb48.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/sw.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/sw.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sw.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/sw.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +36,11 @@
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -93,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608991488590</updated>
-      <workItem from="1608991489797" duration="67969000" />
+      <workItem from="1608991489797" duration="68341000" />
     </task>
     <servers />
   </component>
